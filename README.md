@@ -1,6 +1,7 @@
 # Module-C
 
-![Module-C](https://user-images.githubusercontent.com/42912140/129202072-0462addb-efee-4289-8927-717dddbeb408.png)
+![Module-C](https://user-images.githubusercontent.com/42912140/129260698-ca31e239-544f-484a-9f86-7f8985c62651.png)
+
 
 
 ### Functional Programming
