@@ -11,7 +11,7 @@ Duration of a software development cycle is decreasing. Companies are creatng an
 
 ### Header Files in C
 
-## [Calculator](/Calculator)
+## [Calculator](Calculator)
 The expression is input as a string and is evaluated on the basis of precedence of operators- bracket, division, multiplication, addition and subtraction. Further functionality of the calculator can be increased by creating modules.
 
 ## [Array](/Array)
