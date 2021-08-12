@@ -1,6 +1,7 @@
 # Module-C
 
-![flow](https://user-images.githubusercontent.com/42912140/129142205-6f18bfb0-4605-4763-9008-3f692eb97604.png)
+![Module-C](https://user-images.githubusercontent.com/42912140/129202072-0462addb-efee-4289-8927-717dddbeb408.png)
+
 
 ### Functional Programming
 [Functional Programming](/https://www.oreilly.com/library/view/functional-programming-for/9781449312657/ch01.html) is (definition). It helps to determine the boundaries for the modules to reuse. This is also made code more precise. One can follow object oriented programming with support of functional programming or functional programming with objects as support. It is essential to understand that OOP and FP are just tools. Functional programming is mostly helpful in creating concurrent programs.   
