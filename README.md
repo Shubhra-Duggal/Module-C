@@ -12,9 +12,6 @@ Duration of a software development cycle is decreasing. Companies are creatng an
 
 ### Header Files in C
 
-## [Calculator](Calculator)
-The expression is input as a string and is evaluated on the basis of precedence of operators- bracket, division, multiplication, addition and subtraction. Further functionality of the calculator can be increased by creating modules.
-
 ## [Array](/Array)
 A collection of similar data items stored at contiguous memory locations and elements can be accessed randomly using indices of an array. It can be used to store collection of primitive and derived data types.
 
