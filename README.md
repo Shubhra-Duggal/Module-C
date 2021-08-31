@@ -1,7 +1,8 @@
 # Module-C
 
-![Module-C](https://user-images.githubusercontent.com/42912140/129260698-ca31e239-544f-484a-9f86-7f8985c62651.png)
-
+<p align = "center">
+<img src= "https://user-images.githubusercontent.com/42912140/131544901-9fcaa55b-1597-4bb3-a374-a6a8b866f6b7.png">
+<p>
 
 
 ### Functional Programming
