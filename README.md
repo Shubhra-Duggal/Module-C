@@ -45,7 +45,7 @@ It is a linear data structure but elements are not stored at a contiguous locati
 
 ## [Stack](/Stack)
 
-## [Binary Tree](/Binary_Trees)
+## [Binary Tree](/Binary_Tree)
 It is a hierarchical data structures.  The topmost node is called root of the tree. The elements that are directly under an element are called its children. The element directly above something is called its parent. Elements with no children are called leaves. A tree whose elements have at most 2 children is called a binary tree.
 
 ### Advantages
