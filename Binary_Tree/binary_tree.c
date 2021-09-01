@@ -9,10 +9,10 @@
 
 int main(){
     
-    int array_input[] = {10, 20, 30};
-    struct tree_node *root = create_binary_tree(array_input, 3);
-    display_tree_inorder(root);
-    
+    int array_input[] = {0, 1, 2, 3, 4, 5};
+    struct tree_node *root = create_binary_tree(array_input, 6);
+    //display_tree_inorder(root);
+    printf("Height of tree is: %d", height_binary_tree(root));
     
     return 0;
 }
