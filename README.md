@@ -51,10 +51,19 @@ It is a hierarchical data structures.  The topmost node is called root of the tr
 
 ### Advantages
 * Store information that naturally forms a hierarchy
-* Trees (with some ordering e.g., BST) provide moderate access/search (quicker than Linked List and slower than Arrays)
+* Trees (with some ordering- BST) provide moderate access/search (quicker than Linked List and slower than Arrays)
 * Trees provide moderate insertion/deletion (quicker than Arrays and slower than Unordered Linked Lists)
 * Trees don’t have an upper limit on number of nodes as nodes are linked using pointers
 
 
 ## [Heap](Heap)
+  
+
+## [Graphs](Graphs)
+  
+---
+
+## Divide and Conquer
+  
+## Dynamic Programming
 
