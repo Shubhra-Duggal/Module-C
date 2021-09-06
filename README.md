@@ -47,19 +47,18 @@ It is a linear data structure but elements are not stored at a contiguous locati
 ## [Stack](Stack)
 
 ## [Binary Tree](Binary_Tree)
-It is a hierarchical data structures.  The topmost node is called root of the tree. The elements that are directly under an element are called its children. The element directly above something is called its parent. Elements with no children are called leaves. A tree whose elements have at most 2 children is called a binary tree.
+Tree is a hierarchical data structure. The topmost node is called root. The elements directly above are called parents and directly below are called children. Leaves are elements with no children. Elements with no children are called leaves. A tree with at most 2 children is called a binary tree.
 
 ### Advantages
-* Store information that naturally forms a hierarchy
-* Trees (with some ordering- BST) provide moderate access/search (quicker than Linked List and slower than Arrays)
+* Store hierarchical information.
+* Trees (with some ordering- BST) provide moderate access. It has quicker access than [Linked List](Linked_List) and slower than [Arrays](Array)
 * Trees provide moderate insertion/deletion (quicker than Arrays and slower than Unordered Linked Lists)
 * Trees don’t have an upper limit on number of nodes as nodes are linked using pointers
 
 
-## [Heap](Heap)
-  
+## Heap
 
-## [Graphs](Graphs)
+## Graphs
   
 ---
 
